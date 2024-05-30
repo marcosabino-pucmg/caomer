@@ -1,5 +1,5 @@
 function init() {
-    window.location.href = './home.html'
+    window.location.href = './about.html'
     return
   }
   
