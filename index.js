@@ -1,5 +1,5 @@
 function init() {
-    window.location.href = './login.php'
+    window.location.href = './home.html'
     return
   }
   
